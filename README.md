@@ -24,12 +24,12 @@ Let’s elevate the digital landscape together! 🚀</p>
 
 <ul>
   <li>
-    <p><strong>Title TBC</strong> - <a href="https://www.pearson.com/languages/test-takers/pearson-english-international-certificate.html">link</a><br />
+    <p><strong>Title TBC</strong> - <a href="https://www.wemolo.com/en-de">link</a><br />
 Description TBC<br />
 <em>Tech Stack TBC</em></p>
   </li>
   <li>
-    <p><strong>Title TBC</strong> - <a href="https://withcl.com/">link</a><br />
+    <p><strong>Title TBC</strong> - <a href="https://www.wemolo.com/en-de">link</a><br />
 Description TBC</a><br />
 <em>Tech Stack TBC</em></p>
   </li>

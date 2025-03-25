@@ -18,6 +18,8 @@ Let’s elevate the digital landscape together! 🚀</p>
   <li><a href="https://www.datacamp.com/certificate/DEA0017776962365">Data Engineer Assosciate </a> - @ DataCamp</strong> (Issued on March 2025)</li>
 </ul>
 
+[![PDF Thumbnail](DEA0017776962365.jpg)](DEA0017776962365.pdf)
+
 <h2 id="projects-i-worked-on">Projects I worked on</h2>
 
 <ul>

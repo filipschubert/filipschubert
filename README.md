@@ -1,3 +1,8 @@
+</head>
+<body>
+<div class="container-lg px-3 my-5 markdown-body">
+<h1><a href="https://filipschubert.github.io/">filipschubert.github.io</a></h1>
+<p><strong>Filip Schubert 👨🏼‍💻</strong>
 <br /> <br />
 👋 Hi! I'm a Data Engineer with a year of experience in designing scalable data pipelines, optimising ETL workflows, and working with cloud-based data solutions. I am passionate about transforming raw data into meaningful insights and building efficient data architectures.
 <br /> <br />
